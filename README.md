@@ -3,7 +3,9 @@
 ApplicantCourseManagement system is a Java Spring Hibernate REST project, which allows adding courses
  and applicants can enroll one of the courses
  
-There is u scheduling task, from Spring, which is working to update Applicant status
+There is a scheduling task, from Spring, which is working to update Applicant status
+
+The generated pdf files are saved to resources folder
 
 ## Usage
 
